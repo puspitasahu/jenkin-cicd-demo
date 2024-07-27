@@ -54,7 +54,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>jenkinCICD</finalName>
+		<finalName>jenkin-CICD</finalName>
 	</build>
 
 </project>
